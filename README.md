@@ -1,6 +1,6 @@
 # Longest6 v2 Leaderboard
 
-Longest6 v2 is a public long-horizon CARLA benchmark derived from the original Longest6 benchmark. It contains 36 routes of about 1-2 km in Towns 01-06 with 7 scenario types, and is meant to test whether a driving model can remain robust over longer driving horizons.
+Longest6 v2 is a long-horizon closed-loop autonomous driving benchmark that runs on the CARLA simulator. It contains 36 routes of about 1-2 km in Towns 01-06 with 7 scenario types, and is meant to test whether a driving model can remain robust over longer driving horizons.
 
 This page collects public Longest6 v2 results that can be traced to papers or official project releases. Results are sorted by Driving Score (DS).
 
