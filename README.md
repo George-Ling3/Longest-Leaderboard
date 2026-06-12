@@ -10,6 +10,7 @@ Longest6 v2 should be treated as a separate benchmark from the old leaderboard 1
 
 | Method | DS ↑ | RC ↑ | IS ↑ | Year | Venue |
 | --- | ---: | ---: | ---: | ---: | --- |
+| [TFv6](https://arxiv.org/abs/2512.20563) | 62 | 91 | 0.68 | 2026 | CVPR |
 | [BLUE](https://arxiv.org/abs/2606.08684) | 36 | 84 | 0.43 | 2026 | - |
 | [CriticVLA](https://arxiv.org/abs/2604.27366) | 34 | 66 | 0.55 | 2026 | - |
 | [TF++](https://arxiv.org/abs/2412.09602) | 23 | 71 | - | 2024 | - |
