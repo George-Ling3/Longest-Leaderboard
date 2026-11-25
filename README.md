@@ -11,8 +11,8 @@ Longest6 v2 should be treated as a separate benchmark from the old leaderboard 1
 | Method | DS ↑ | RC ↑ | IS ↑ | Year | Venue |
 | --- | ---: | ---: | ---: | ---: | --- |
 | [TFv6](https://arxiv.org/abs/2512.20563) | 62 | 91 | 0.68 | 2026 | CVPR |
-| [BLUE](https://arxiv.org/abs/2606.08684) | 36 | 84 | 0.43 | 2026 | - |
-| [CriticVLA](https://arxiv.org/abs/2604.27366) | 34 | 66 | 0.55 | 2026 | - |
+| [BLUE](https://arxiv.org/abs/2606.08684) | 36 | 84 | 0.43 | 2026 | EMNLP |
+| [CriticVLA](https://arxiv.org/abs/2604.27366) | 34 | 66 | 0.55 | 2026 | CoRL |
 | [TF++](https://arxiv.org/abs/2412.09602) | 23 | 71 | - | 2024 | - |
 | [SimLingo](https://arxiv.org/abs/2503.09594) | 22 | 70 | 0.38 | 2025 | CVPR |
 | [HiP-AD](https://arxiv.org/abs/2503.08612) | 7 | 56 | - | 2025 | ICCV |
